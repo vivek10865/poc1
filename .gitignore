@@ -1,0 +1,7 @@
+﻿venv/
+seed_output/
+export/
+__pycache__/
+*.pyc
+.env
+fingerprint.json

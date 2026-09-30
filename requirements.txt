@@ -1,0 +1,3 @@
+snowflake-connector-python
+faker
+python-dotenv
